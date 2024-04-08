@@ -1,5 +1,6 @@
 # RESULT
 
+Video is available at https://www.bilibili.com/video/BV1AJ4m1V72S.
 
 https://github.com/CQUMASTER/PLOD-YOLO/assets/23055398/f13afbf7-0b89-48b8-a151-d7e657f38f91
 
