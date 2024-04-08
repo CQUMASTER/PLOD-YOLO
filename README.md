@@ -2,9 +2,6 @@
 
 Video is available at https://www.bilibili.com/video/BV1AJ4m1V72S.
 
-https://github.com/CQUMASTER/PLOD-YOLO/assets/23055398/f13afbf7-0b89-48b8-a151-d7e657f38f91
-
-
 
 ## Comparison of visualization results between YOLOv8n and ours, (a) represents YOLOv8n, (b) is our PLOD-YOLO
 ![框架-第 10 页 drawio](https://github.com/CQUMASTER/PLOD-YOLO/assets/23055398/fbcdc631-4e4e-469e-890b-a8643ec85bd0)
